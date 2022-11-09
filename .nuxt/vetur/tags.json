@@ -1,0 +1,23 @@
+{
+  "IoSocketStatus": {
+    "description": "Auto imported from node_modules/nuxt-socket-io/lib/components/SocketStatus.js"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "SocketClientTest": {
+    "description": "Auto imported from components/socket/clientTest.vue"
+  },
+  "SocketClientTestCopy": {
+    "description": "Auto imported from components/socket/clientTestCopy.vue"
+  },
+  "SocketWsClient": {
+    "description": "Auto imported from components/socket/wsClient.vue"
+  }
+}

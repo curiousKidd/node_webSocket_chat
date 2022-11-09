@@ -1,0 +1,37 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/Users/gwnam/Desktop/dev/IDE/node_webSocket_chat/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_37cd3dee"
+  },
+  {
+    "name": "socket-io",
+    "path": "/socket/io",
+    "component": "/Users/gwnam/Desktop/dev/IDE/node_webSocket_chat/pages/socket/io/index.vue",
+    "chunkName": "pages/socket/io/index",
+    "_name": "_3e95c94e"
+  },
+  {
+    "name": "socket-io_test",
+    "path": "/socket/io_test",
+    "component": "/Users/gwnam/Desktop/dev/IDE/node_webSocket_chat/pages/socket/io_test/index.vue",
+    "chunkName": "pages/socket/io_test/index",
+    "_name": "_12354dce"
+  },
+  {
+    "name": "socket-ws",
+    "path": "/socket/ws",
+    "component": "/Users/gwnam/Desktop/dev/IDE/node_webSocket_chat/pages/socket/ws/index.vue",
+    "chunkName": "pages/socket/ws/index",
+    "_name": "_c0021ce2"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/gwnam/Desktop/dev/IDE/node_webSocket_chat/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_9c413234"
+  }
+]
